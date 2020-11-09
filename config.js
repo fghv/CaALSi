@@ -9,7 +9,7 @@ var config = {
         "来干了这碗二十七年的人间烟火✨",
         "然后",
         "祝你生日快乐",
-        "不是生日这天快乐",
+        "不是单单生日这天快乐",
         "是到下一个生日之前的",
         "每一天都要快乐",
         "然后继续",
@@ -34,10 +34,10 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "彩带",
+        bannar_coming: "装饰一下",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
+        cake_fadein: "蛋糕马上来！",
+        light_candle: "蜡烛ok",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
